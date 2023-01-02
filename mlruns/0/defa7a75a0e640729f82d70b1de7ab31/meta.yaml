@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/defa7a75a0e640729f82d70b1de7ab31/artifacts
+end_time: 1672429037330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: defa7a75a0e640729f82d70b1de7ab31
+run_name: hilarious-bee-307
+run_uuid: defa7a75a0e640729f82d70b1de7ab31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672429026535
+status: 4
+tags: []
+user_id: Alex

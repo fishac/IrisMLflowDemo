@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/ca7e6c288ce04cb292f766af4eb1c3ce/artifacts
+end_time: 1672432941836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca7e6c288ce04cb292f766af4eb1c3ce
+run_name: stylish-perch-901
+run_uuid: ca7e6c288ce04cb292f766af4eb1c3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672432929629
+status: 4
+tags: []
+user_id: Alex
