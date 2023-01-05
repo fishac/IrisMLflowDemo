@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/3489d2ca28084faa978201a1acf9c8ac/artifacts
+end_time: 1672951579721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3489d2ca28084faa978201a1acf9c8ac
+run_name: valuable-calf-82
+run_uuid: 3489d2ca28084faa978201a1acf9c8ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951571010
+status: 3
+tags: []
+user_id: alexpc2red

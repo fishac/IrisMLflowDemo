@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/0d1f1836b18042018614d1182beda46a/artifacts
+end_time: 1672951527260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d1f1836b18042018614d1182beda46a
+run_name: suave-cod-943
+run_uuid: 0d1f1836b18042018614d1182beda46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951517774
+status: 3
+tags: []
+user_id: alexpc2red

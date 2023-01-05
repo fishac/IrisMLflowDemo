@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/1bd7f743db92407288d601b3d5a11b90/artifacts
+end_time: 1672951544683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bd7f743db92407288d601b3d5a11b90
+run_name: clean-snake-535
+run_uuid: 1bd7f743db92407288d601b3d5a11b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951535930
+status: 3
+tags: []
+user_id: alexpc2red

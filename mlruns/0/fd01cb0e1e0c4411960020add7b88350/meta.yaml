@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/fd01cb0e1e0c4411960020add7b88350/artifacts
+end_time: 1672951553473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd01cb0e1e0c4411960020add7b88350
+run_name: silent-squid-546
+run_uuid: fd01cb0e1e0c4411960020add7b88350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951544697
+status: 3
+tags: []
+user_id: alexpc2red
