@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/f025b1a6b958458a9b3a7c8e556a5231/artifacts
+end_time: 1672951881101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f025b1a6b958458a9b3a7c8e556a5231
+run_name: luxuriant-ape-258
+run_uuid: f025b1a6b958458a9b3a7c8e556a5231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951871937
+status: 3
+tags: []
+user_id: alexpc2red

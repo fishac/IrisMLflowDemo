@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/7c243f9eaec045258f16ac7a20738bd3/artifacts
+end_time: 1672951925624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c243f9eaec045258f16ac7a20738bd3
+run_name: shivering-sheep-125
+run_uuid: 7c243f9eaec045258f16ac7a20738bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951916946
+status: 3
+tags: []
+user_id: alexpc2red

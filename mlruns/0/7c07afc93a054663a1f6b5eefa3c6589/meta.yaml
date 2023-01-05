@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/7c07afc93a054663a1f6b5eefa3c6589/artifacts
+end_time: 1672951951931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c07afc93a054663a1f6b5eefa3c6589
+run_name: burly-boar-161
+run_uuid: 7c07afc93a054663a1f6b5eefa3c6589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951943228
+status: 3
+tags: []
+user_id: alexpc2red

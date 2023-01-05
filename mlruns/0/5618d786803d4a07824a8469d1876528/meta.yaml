@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/5618d786803d4a07824a8469d1876528/artifacts
+end_time: 1672951934379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5618d786803d4a07824a8469d1876528
+run_name: agreeable-dove-472
+run_uuid: 5618d786803d4a07824a8469d1876528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951925637
+status: 3
+tags: []
+user_id: alexpc2red

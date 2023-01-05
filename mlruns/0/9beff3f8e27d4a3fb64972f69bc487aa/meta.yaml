@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/9beff3f8e27d4a3fb64972f69bc487aa/artifacts
+end_time: 1672951871923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9beff3f8e27d4a3fb64972f69bc487aa
+run_name: upbeat-smelt-482
+run_uuid: 9beff3f8e27d4a3fb64972f69bc487aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951861487
+status: 3
+tags: []
+user_id: alexpc2red

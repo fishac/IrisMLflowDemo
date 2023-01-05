@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/3827868aff724aa0a7ff126c7a78790e/artifacts
+end_time: 1672951943214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3827868aff724aa0a7ff126c7a78790e
+run_name: legendary-gull-789
+run_uuid: 3827868aff724aa0a7ff126c7a78790e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951934391
+status: 3
+tags: []
+user_id: alexpc2red

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/49612319305d4a13908d229a0106ccb2/artifacts
+end_time: 1672951890685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49612319305d4a13908d229a0106ccb2
+run_name: incongruous-carp-948
+run_uuid: 49612319305d4a13908d229a0106ccb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951881114
+status: 3
+tags: []
+user_id: alexpc2red

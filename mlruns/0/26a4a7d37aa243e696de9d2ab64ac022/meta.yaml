@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alex/Documents/SparkMLflowDemo/mlruns/0/26a4a7d37aa243e696de9d2ab64ac022/artifacts
+end_time: 1672951969419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26a4a7d37aa243e696de9d2ab64ac022
+run_name: wise-cat-371
+run_uuid: 26a4a7d37aa243e696de9d2ab64ac022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672951960676
+status: 3
+tags: []
+user_id: alexpc2red
